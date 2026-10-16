@@ -37,3 +37,6 @@ pip install -r requirements.txt
 cd src
 python train_model.py
 python predict.py
+
+
+INTERN ID:-CITS9194
