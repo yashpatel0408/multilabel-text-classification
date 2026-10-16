@@ -16,14 +16,21 @@ Note: the data contains offensive language.
 5. Evaluation: per-label precision, recall, F1, macro F1, macro ROC-AUC, hamming loss
 
 ## Results
-- Best model: <naam daalo>
-- Macro F1: <value daalo>
-- Macro ROC-AUC: <value daalo>
+- Best model: Linear SVM
+- Macro F1:  0.5480202922213654
+- Macro ROC-AUC: 0.966196862834232
 
 ## Key Insights
-- <Cell 4 ke percentage se ek line>
-- <Cell 5 se ek line>
-- <Cell 7 ya Cell 11 se ek line>
+- toxic            9.58
+- label_count
+0    143346
+1      6360
+2      3480
+3      4209
+4      1760
+5       385
+6        31
+
 
 ## How to run
 pip install -r requirements.txt
